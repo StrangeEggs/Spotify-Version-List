@@ -1,7 +1,8 @@
 // Versions that are not on "opensource" page (version numbers taken from antivirus sites, etc)
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.6.81.gd359a796-160.exe
 
-"opensource" page versions
+// "opensource" page versions
+
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.7.16.g4b197456-46.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.10.14.g578d350b-46.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.10.22.gf87988f9-83.exe
