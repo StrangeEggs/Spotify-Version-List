@@ -38,6 +38,12 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.124
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.3.222.g317ab79d.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1356.gd1d40f3a.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1333.g822e0de8.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1331.ge9d898e3.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.124.ga3559d86.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.93.gd9f49c35.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.610.g090a06f8.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.527.g48d079d8.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.572.geb65f9ac.exe
 
 // "opensource" page versions
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.7.16.g4b197456-46.exe
