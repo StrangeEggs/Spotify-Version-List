@@ -1,3 +1,9 @@
+// Missing versions that I don't know how to get
+0.8.8.454.gfb120cda
+0.9.0.133.gd18ed589
+0.9.1.53.g876fa9df
+0.9.1.57.ge7405149
+
 // Versions that are not on "opensource" page (version numbers taken from antivirus sites, etc)
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.6.81.gd359a796-160.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.258.g8abcc212-382.exe
