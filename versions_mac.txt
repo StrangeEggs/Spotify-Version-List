@@ -1,0 +1,5 @@
+TODO: add remaining mac versions with url https://upgrade.spotify.com/upgrade/client/osx-x86_64/
+
+
+BETA VERSIONS:
+http://download.spotify.com/beta/spotify-app-1.0.0.974.ga39487e3-1439.dmg [Feb 9, 2015]
