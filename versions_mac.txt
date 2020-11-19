@@ -1,5 +1,15 @@
 TODO: add remaining mac versions with url https://upgrade.spotify.com/upgrade/client/osx-x86_64/
 
+VERSIONS:
+http://download.spotify.com/Spotify-0.8.5.dmg
 
 BETA VERSIONS:
 http://download.spotify.com/beta/spotify-app-1.0.0.974.ga39487e3-1439.dmg [Feb 9, 2015]
+http://download.spotify.com/beta/spotify-app-1.0.0.588.g5dffdc66-3237.dmg
+http://download.spotify.com/beta/spotify-app-1.0.0.630.gc395521b-374.dmg
+
+PREVIEW VERSIONS:
+http://download.spotify.com/preview/spotify-app-0.8.0.535.g7d1e7e3b.dmg
+http://download.spotify.com/preview/spotify-app-0.8.0.815.g695aca78.dmg
+http://download.spotify.com/preview/spotify-app-0.8.0.952.g0298b8ce.dmg	
+http://download.spotify.com/preview/spotify-app-0.8.2.527.g48d079d8.dmg
