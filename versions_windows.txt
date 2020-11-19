@@ -20,9 +20,14 @@ Spotify Version List
 
 // Beta versions
 http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.477.g16adf20f-2921.exe [Oct 10, 2014]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.797.gd2cd6291-1.exe
+http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.811.g63b21681-32.exe [Dec 20, 2014]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.909.ge4845795-1175.exe [Jan 25, 2015]
 http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.974.ga39487e3-1362.exe [Feb 9, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1075.gf4b0d44b-1576.exe [Feb 27, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.1060.gc75ebdfd-220.exe [Mar 15, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1093.g2eba9b4b-1612.exe [Mar 7, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1212.gc1771003-2044.exe [Apr 14, 2015]
 
 // Preview versions
 https://download.spotify.com/preview/spotify_installer-0.8.0.952.g0298b8ce.exe
