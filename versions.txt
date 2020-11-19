@@ -13,13 +13,14 @@ Spotify Version List
 0.4.8.203.g58d6b894
 
 // these version numbers I think go up to 3k
-1.0.0.1075.gf4b0d44b [Feb 27, 2015]
 0.8.8.450.gd9413516 [Mar 19, 2013]
 0.8.8.349.g3657a532 [Mar 15, 2013]
 0.8.8.348.ge445f5b9 [Mar 6, 2013]
 0.8.6.194.g482f838f [Feb 24, 2013]
 
 // Versions that are not on "opensource" page (version numbers taken from antivirus sites, etc)
+http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.477.g16adf20f-2921.exe [Oct 10, 2014]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1075.gf4b0d44b-1576.exe [Feb 27, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1093.g2eba9b4b-1612.exe [Mar 7, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.6.81.gd359a796-160.exe [Dec 5, 2013]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.258.g8abcc212-382.exe [Mar 14, 2014]
