@@ -24,6 +24,10 @@ http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.974.
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1075.gf4b0d44b-1576.exe [Feb 27, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1093.g2eba9b4b-1612.exe [Mar 7, 2015]
 
+// Preview versions
+https://download.spotify.com/preview/spotify_installer-0.8.0.952.g0298b8ce.exe
+https://download.spotify.com/preview/spotify_installer-0.8.0.535.g7d1e7e3b.exe	
+
 // Versions that are not on "opensource" page (version numbers taken from antivirus sites, etc)
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.6.81.gd359a796-160.exe [Dec 5, 2013]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.258.g8abcc212-382.exe [Mar 14, 2014]
