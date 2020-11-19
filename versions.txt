@@ -12,7 +12,7 @@ Spotify Version List
 0.4.9.295.gf1902819
 0.4.8.203.g58d6b894
 
-(these version numbers I think go up to 3k)
+// these version numbers I think go up to 3k
 1.0.0.1075.gf4b0d44b [Feb 27, 2015]
 0.8.8.450.gd9413516 [Mar 19, 2013]
 0.8.8.349.g3657a532 [Mar 15, 2013]
