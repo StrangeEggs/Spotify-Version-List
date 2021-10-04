@@ -232,3 +232,5 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.66.57
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.66.580.gbd43cbc9-18.exe [Aug 26, 2021]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.67.584.gc0d1ad42-14.exe [Aug 31, 2021]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.67.586.gbb5ef64e-21.exe [Sep 2, 2021]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.68.628.geb44bd66-13.exe [Sep 16, 2021]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.69.612.gb7409abc-16.exe [Sep 29, 2021]
