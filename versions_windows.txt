@@ -17,12 +17,12 @@ Spotify Version List
 0.8.6.194.g482f838f [Feb 24, 2013]
 
 // Preview versions
-https://download.spotify.com/preview/spotify_installer-0.8.0.952.g0298b8ce.exe
-https://download.spotify.com/preview/spotify_installer-0.8.0.535.g7d1e7e3b.exe	
+https://download.spotify.com/preview/spotify_installer-0.8.0.535.g7d1e7e3b.exe [Nov 30, 2011]
+https://download.spotify.com/preview/spotify_installer-0.8.0.952.g0298b8ce.exe [Dec 13, 2011]
 
 // Beta
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.477.g16adf20f-2921.exe [Oct 10, 2014]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.797.gd2cd6291-1.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.797.gd2cd6291-1.exe [Dec 4, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.811.g63b21681-32.exe [Dec 20, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.909.ge4845795-1175.exe [Jan 25, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.974.ga39487e3-1362.exe [Feb 9, 2015]
@@ -32,7 +32,7 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.109
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1212.gc1771003-2044.exe [Apr 14, 2015]
 
 // Sorted Versions
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.0.815.g695aca78.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.0.815.g695aca78.exe [Dec 8, 2011]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.1.64.g5c5914e3.exe [Jan 14, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.527.g48d079d8.exe [Mar 13, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.572.geb65f9ac.exe [Mar 7, 2012]
@@ -40,7 +40,7 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.610
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.93.gd9f49c35.exe [Jul 3, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.124.ga3559d86.exe [Sep 19, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.3.222.g317ab79d.exe [May 2, 2012]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.107.g4fa0003f.exe
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.4.107.g4fa0003f.exe [Jul 12, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1356.gd1d40f3a.exe [Feb 13, 2013]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1333.g822e0de8.exe [Jan 22, 2013]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.5.1331.ge9d898e3.exe [Oct 22, 2012]
@@ -55,9 +55,9 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.6.81.
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.7.16.g4b197456-46.exe [Jan 14, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.199.g21853119-227.exe [Jan 28, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.217.gaaee3562-273.exe [Feb 23, 2014]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.238.g912f713d-316.exe [Mar 8, 2014]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.258.g8abcc212-382.exe [Mar 14, 2014]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.9.23.ge8d9d719-39.exe [Unknown]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.238.g912f713d-316.exe [Feb 28, 2014]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.8.258.g8abcc212-382.exe [Mar 7, 2014]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.9.23.ge8d9d719-39.exe [Feb 13, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.10.7.g1826e03e-25.exe [April 29, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.10.12.ga9ab7425-40.exe [May 10, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.10.14.g578d350b-46.exe [May 16, 2014]
@@ -74,12 +74,12 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.15.21
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.15.27.g87efe634-62.exe [Dec 11, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.805.gd2412973-60.exe [Dec 23, 2014]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.988.g8f17a348-142.exe [Feb 18, 2015]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.17.6.ge7d46329-3.exe [Mar 4, 2015]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.16.25.g241bf986-62.exe [Mar 5, 2015]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.16.29.g0b5fcb05-2.exe
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.1060.gc75ebdfd-220.exe [Mar 6, 2015]
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.2.6.g9977a14b-15.exe
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.3.98.g5ef498fc-41.exe [Mar 26, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.1060.gc75ebdfd-220.exe [Feb 26, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.16.25.g241bf986-62.exe [Feb 27, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.16.29.g0b5fcb05-2.exe [Mar 4, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.2.6.g9977a14b-15.exe [Mar 11, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.3.98.g5ef498fc-41.exe [Mar 24, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.9.17.6.ge7d46329-3.exe [Mar 31, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.3.101.gbfa97dfe-48.exe [Apr 9, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.4.89.g22b04e33-7.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.4.90.g0b6df40b-9.exe
@@ -93,7 +93,7 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.8.59.
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.9.133.gcedaee38-122.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.10.104.ge563a026-136.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.10.106.gccf469cc-137.exe
-https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.10.107.gd0dfca3a-139.exe [Jul 31, 2015]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.10.107.gd0dfca3a-139.exe [Jul 21, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.11.129.g61510de3-150.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.11.134.ga37df67b-152.exe
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.12.161.g64b0797c-171.exe
@@ -235,3 +235,6 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.67.58
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.67.586.gbb5ef64e-21.exe [Sep 2, 2021]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.68.628.geb44bd66-13.exe [Sep 16, 2021]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.69.612.gb7409abc-16.exe [Sep 29, 2021]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.70.610.g4585142b-8.exe [Oct 9, 2021]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.71.560.gc21c3367-42.exe [Oct 27, 2021]
+https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.72.439.gc253025e-33.exe [Nov 10, 2021]
