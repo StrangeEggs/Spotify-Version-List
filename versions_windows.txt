@@ -1,21 +1,5 @@
 Spotify Version List
 
-// Missing versions that I don't know how to get (Impossible to retrieve)
-0.6.5.2.gce2a2375
-0.6.4.0.g85bb08a3
-0.6.2.301.g38ad206c
-0.6.2.243.gebaa8ac5
-0.6.1.352.g17edfbcb
-0.5.3.136.g2413b454
-0.5.3.134.g27e4f06c
-0.5.0.815.ga25afdce
-0.4.9.295.gf1902819
-0.4.8.203.g58d6b894
-
-// Possible to retrieve
-0.8.8.450.gd9413516 [Mar 19, 2013]
-0.8.6.194.g482f838f [Feb 24, 2013]
-
 // Preview versions
 https://download.spotify.com/preview/spotify_installer-0.8.0.535.g7d1e7e3b.exe [Nov 30, 2011]
 https://download.spotify.com/preview/spotify_installer-0.8.0.952.g0298b8ce.exe [Dec 13, 2011]
@@ -31,7 +15,7 @@ https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.1.106
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1093.g2eba9b4b-1612.exe [Mar 7, 2015]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.0.1212.gc1771003-2044.exe [Apr 14, 2015]
 
-// Sorted Versions
+// Release
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.0.815.g695aca78.exe [Dec 8, 2011]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.1.64.g5c5914e3.exe [Jan 14, 2012]
 https://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-0.8.2.527.g48d079d8.exe [Mar 13, 2012]
